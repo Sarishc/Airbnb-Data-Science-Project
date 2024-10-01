@@ -45,7 +45,6 @@ pip install catboost
 pip install treeinterpreter
 Then clone this repo with
 
-git clone https://github.com/mohamedirfansh/Airbnb-Data-Science-Project.git
 You can then open the following files with Jupyter Notebook:
 
 Exploratory Analysis Problem 1.ipynb
